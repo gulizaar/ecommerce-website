@@ -4,7 +4,7 @@ import HeroSlider from "../components/HeroSlider";
 import Footer from "../layout/Footer";
 import ShopCard from "../components/ShopCard";
 import BestsellerProducts from "../components/product/BestsellerProducts";
-import Carousel2 from "../components/carousel2";
+import Carousel2 from "../components/Carousel2";
 import FeaturedPosts from "../components/FeaturedPost";
 import Fluid from "../components/Fluid";
 import PageContent from "../layout/PageContent";
