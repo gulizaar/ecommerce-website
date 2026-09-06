@@ -5,7 +5,7 @@ import about from '../assets/about.png'
 import about1 from '../assets/about1.jpg'
 import Clients from '../components/Clients'
 import TeamGrid from '../components/TeamGrid'
-import Video from '../components/video'
+import Video from '../components/Video'
 import Stats from '../components/Stats'
 
 function About() {
