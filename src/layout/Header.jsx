@@ -11,6 +11,7 @@ function Header() {
             <div className="hidden md:block">
                 <TopBar />
             </div>
+            <div className="md:hidden"> <Header2 /> </div>
             <Navbar />
 
         </>
