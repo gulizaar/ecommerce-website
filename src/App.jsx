@@ -10,7 +10,7 @@ import { ShopProvider } from "./context/ShopContext";
 import Contact from "./pages/Contact";
 import Team from "./pages/Team";
 import About from "./pages/About";
-import Video from "./components/video";
+
 import TestApi from "./pages/TestApi";
 import md5 from "md5";
 
