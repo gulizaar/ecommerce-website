@@ -224,7 +224,7 @@ function Navbar() {
                     {isHome && (
                         <div className="flex flex-col items-center gap-4">
                             <NavLink to="/" className="text-gray-500 no-underline">Home</NavLink>
-                            <NavLink to="/product" className="text-gray-500 no-underline">Product</NavLink>
+                            <NavLink to="/shop" className="text-gray-500 no-underline">Product</NavLink>
                             <NavLink to="/about" className="text-gray-500 no-underline">Pricing</NavLink>
                             <NavLink to="/contact" className="text-gray-500 no-underline">Contact</NavLink>
                         </div>
